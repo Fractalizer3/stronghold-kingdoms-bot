@@ -1,5 +1,5 @@
 package com.middlegames.shkbot;
-
+//test
 import java.awt.Dimension;
 
 import org.sikuli.script.FindFailed;
